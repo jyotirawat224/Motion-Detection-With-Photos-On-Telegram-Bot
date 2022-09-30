@@ -1,4 +1,4 @@
-// Hardware Specification***
+//  ***Hardware Specification***
 
 ESP32-CAM : The ESP32-CAM is a camera module with the ESP32-S chip. It features an OV2640 camera, several GPIOs to connect peripherals, and microSD card slot.
 Mini PIR motion sensor: A passive infrared sensor is an electronic sensor that measures infrared light radiating from objects in its field of view. They are most often
@@ -16,7 +16,7 @@ inputs, a 16
 MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button.
 
 
-//Software Specification***
+//  ***Software Specification***
 
 Arduino IDE: Arduino IDE is a coding software that makes the programming world more accessible to beginners with its simple interface and community-driven system. 
 Simple Interface As mentioned in the beginning, programming is very daunting for people who have never had a background for them.
