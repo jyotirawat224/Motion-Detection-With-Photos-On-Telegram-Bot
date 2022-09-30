@@ -1,0 +1,20 @@
+// Hardware Specification***
+ESP32-CAM : The ESP32-CAM is a camera module with the ESP32-S chip. It features an OV2640 camera, several GPIOs to connect peripherals, and microSD card slot.
+Mini PIR motion sensor: A passive infrared sensor is an electronic sensor that measures infrared light radiating from objects in its field of view. They are most often
+used in PIRbased motion detectors. PIR sensors are commonly used in security alarms and automatic lighting applications. 
+
+Breadboard: A breadboard, or protoboard, is a construction base for prototyping of electronics. Originally the word referred to a 
+literal bread board, a polished piece of wood used for slicing bread.
+
+Jumper wires: A jump wire (also known as jumper, jumper wire, jumper cable, DuPont wire or cable) is an electrical wire, or group of them in a cable, with a 
+connector or pin at each end (or sometimes without them – simply "tinned"), which is normally used to interconnect the components of a breadboard or other prototype or
+test circuit.
+
+Arduino: Arduino/Genuino Uno is a microcontroller board based on the ATmega328P . It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog
+inputs, a 16 
+MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button.
+
+
+//Software Specification***
+Arduino IDE: Arduino IDE is a coding software that makes the programming world more accessible to beginners with its simple interface and community-driven system. 
+Simple Interface As mentioned in the beginning, programming is very daunting for people who have never had a background for them.
